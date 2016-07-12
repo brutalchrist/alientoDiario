@@ -1,10 +1,15 @@
 {
 	"shell-version": [
-				"3.14.4", 
-				"3.18.2"
+		"3.8",
+		"3.10",
+		"3.12",
+		"3.14",
+		"3.16",
+		"3.18",
+		"3.20"
 	],
-	"uuid": "Aliento_Diario@brutalchrist.info", 
-	"name": "Aliento Diario", 
-	"description": "Fragmentos de escritos de Daisaku Ikeda presentados a manera de calendario", 
+	"uuid": "Aliento_Diario@brutalchrist.info",
+	"name": "Aliento Diario",
+	"description": "Fragmentos de escritos de Daisaku Ikeda presentados a manera de calendario",
 	"settings-schema": "org.gnome.shell.extensions.aliento"
 }
